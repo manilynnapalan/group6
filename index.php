@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Sample</title>
 </head>
-<body>
-	<h2>Initial Commit</h2>
+<body> background" 
+	<h2>Welcome</h2>
 </body>
 </html>
